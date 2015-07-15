@@ -1,0 +1,20 @@
+@import "fonts";
+@import "colors";
+@import "shadows";
+@import "base";
+@import "typography";
+@import "card";
+@import "buttons";
+@import "form";
+@import "form_default";
+@import "thankyou";
+
+.iapp-img-wrap {
+    margin: 1em auto 0 auto;
+    max-width: 600px;
+    width: 80%;
+
+    img {
+        max-width: 100%;
+    }
+}
